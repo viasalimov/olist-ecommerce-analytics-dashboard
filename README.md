@@ -58,7 +58,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/01_dashboard_overview.png)
 
 ---
 
