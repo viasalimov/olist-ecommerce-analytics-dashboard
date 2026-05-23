@@ -58,7 +58,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-![Dashboard Overview](screenshots/01_dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
@@ -82,7 +82,7 @@ A trendline was added to identify the correlation between:
 
 The analysis showed that longer delivery times generally resulted in lower customer review scores.
 
-![Scatter Plot](screenshots/02_delivery_customer_satisfaction.png)
+![Scatter Plot](screenshots/delivery_customer_satisfaction.png)
 
 ---
 
@@ -110,7 +110,7 @@ This ensured slicers such as:
 
 properly propagated across all visuals and KPIs.
 
-![Data Model](screenshots/04_data_model.png)
+![Data Model](screenshots/data_model.png)
 
 ---
 
@@ -160,7 +160,7 @@ The project also includes a dedicated summary page explaining:
 - DAX calculations
 - modeling decisions
 
-![Summary Page](screenshots/03_summary_page.png)
+![Summary Page](screenshots/summary_page.png)
 
 ---
 
